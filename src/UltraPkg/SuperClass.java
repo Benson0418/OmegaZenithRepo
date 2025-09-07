@@ -9,6 +9,8 @@ public class SuperClass{
         int a = yeee.getA();
         int b = yeee.getB();
         System.out.println("a=" + a + " b=" + b);
+        System.out.println("asdasdadadasdasasddadas");
+
     }
 
 
