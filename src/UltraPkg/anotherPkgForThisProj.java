@@ -1,13 +1,13 @@
 package UltraPkg;
 
-public class anotherFeatureForThisPkg{
+public class anotherPkgForThisProj{
 
     int a,b,c;
-    anotherFeatureForThisPkg(int a,int b,int c){}
+    anotherPkgForThisProj(int a,int b,int c){}
 
     @Override
     public String toString() {
-        return "anotherFeatureForThisPkg{" +
+        return "anotherPkgForThisProj{" +
                 "a=" + a +
                 '}';
     }
