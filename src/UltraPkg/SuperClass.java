@@ -5,5 +5,7 @@ public class SuperClass{
         System.out.println("Hello Supreme, Super Class here!");
         System.out.println("Already Done, Trust!");
         System.out.println("asdasdadadasdasasddadas");
+        System.out.println(" conflicts AND MERGE");
+
     }
 }
